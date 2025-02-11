@@ -1,0 +1,30 @@
+Name: Rani
+Course: MCOM
+Address: Gandhi nagar
+Email: rani@gmail.com
+Mobile No: 9380205512
+Aadhar No: 561256125621
+Father's Name: Raju
+Mother's Name: Geetha
+Occupation: Doctor
+Income: 200000.0
+State: null
+District: null
+College: null
+Hostel: null
+----------------------------------------
+Name: Vasu
+Course: MSW
+Address: Periyar
+Email: vasu@gamil.com
+Mobile No: 6985445896
+Aadhar No: 784578457845
+Father's Name: Vardhan
+Mother's Name: Diviya
+Occupation: Farmaer
+Income: 12000.0
+State: Kerala
+District: null
+College: null
+Hostel: null
+----------------------------------------

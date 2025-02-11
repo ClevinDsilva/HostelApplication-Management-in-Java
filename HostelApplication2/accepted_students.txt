@@ -1,0 +1,60 @@
+Name: clevin
+Course: MCA
+Address: Sakleshpur
+Email: clevin@gamil.com
+Mobile No: 9380205512
+Aadhar No: 123412341234
+Father's Name: sdf
+Mother's Name: sfddf
+Occupation: sfdfsd
+Income: 5000.0
+State: Karnataka
+District: DAKSHINA KANNADA
+College: St Aloysius College (Deemed to be university)
+Hostel: BCM Men Hostel,Natekal
+-----------
+Name: Clevin
+Course: MCA
+Address: Sakleshpur
+Email: Clevin@gmail.com
+Mobile No: 9380205512
+Aadhar No: 123412341234
+Father's Name: John
+Mother's Name: Mary
+Occupation: Farmaer
+Income: 20000.0
+State: Karnataka
+District: DAKSHINA KANNADA
+College: St. Agnes College(Autonomous)
+Hostel: Kadri Boys Hostel
+----------------------------------------
+Name: Nandhini
+Course: MSW
+Address: Mysore
+Email: nadhi@gmail.com
+Mobile No: 4512332145
+Aadhar No: 784578457854
+Father's Name: Bola
+Mother's Name: Ragini
+Occupation: Kuli
+Income: 40000.0
+State: Karnataka
+District: Bangalore
+College: Bengaluru University
+Hostel: Minority Hostel for Women
+----------------------------------------
+Name: Fahim
+Course: MSC
+Address: Padil
+Email: fahim@gmail.com
+Mobile No: 6874568745
+Aadhar No: 456945694569
+Father's Name: Shiva
+Mother's Name: Parvathi
+Occupation: Driver
+Income: 45000.0
+State: Karnataka
+District: DAKSHINA KANNADA
+College: St Joseph's Engineering College
+Hostel: Minority Boys Hostel,Karavali
+----------------------------------------
